@@ -1,5 +1,5 @@
 # Ecommerce
 
-### the database is internall
+### the database is internal
 
 #### npm start
